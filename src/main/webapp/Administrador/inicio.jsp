@@ -19,7 +19,7 @@
 </style>
 
 <body>
-
+<!-- Registro de usuarios -->
 <div class="overlay" id="overlay">
     <div class="pop-up" id="pop-up">
         <a href="#" id="btn-cerrar" class="btn-cerrar"><i class="bi bi-x-lg"></i></a>
@@ -514,7 +514,7 @@
             Swal.fire({
                 icon: 'error',
                 title: 'Verifica tu información',
-                text: 'La nueva contraseña debe tener entre 3 y 8 caracteres.',
+                text: 'La nueva contraseña debe tener entre 3 y 20 caracteres.',
                 showConfirmButton: true,
                 timer: 6000,
                 confirmButtonColor: '#001256',

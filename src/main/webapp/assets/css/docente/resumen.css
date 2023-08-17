@@ -341,7 +341,7 @@ body{
 }
 
 .close:hover {
-  color: #001256; /* Color rojo para el botón de cerrar al pasar el cursor */
+  color: #001256; 
 }
 input[type="submit"]{
 	background: #001256;

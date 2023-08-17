@@ -4,7 +4,7 @@ body{
     font-family: 'Urbanist', sans-serif;
     overflow-x: hidden;
 }
-/*-----------FONDO----------*/
+/*FONDO*/
 body {
   margin: 0;
   padding: 0;
@@ -70,7 +70,7 @@ body {
 
 
 
-/*Caja en donde debe ingresar el código*/
+/*div en donde debe ingresar el código*/
 .box {
 	z-index: 1;
 	position: relative;
@@ -82,7 +82,7 @@ body {
 	overflow: hidden;
 }
 
-/* Para pantallas grandes (por ejemplo, pantallas con un ancho mínimo de 1024 píxeles) */
+
 @media screen and (min-width: 1024px) {
   .box {
 
@@ -101,7 +101,7 @@ body {
   }
 }
 
-/* Para pantallas pequeñas (por ejemplo, pantallas con un ancho máximo de 320 píxeles) */
+
 @media screen and (max-width: 320px) {
   .box {
     min-width: 250px;

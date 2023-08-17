@@ -68,7 +68,7 @@ body {
     text-align: center;
   }
 }
-/* Para pantallas grandes (por ejemplo, pantallas con un ancho mínimo de 1024 píxeles) */
+
 @media screen and (min-width: 1024px) {
   .contenido {
     background: #ffffff;

@@ -45,8 +45,8 @@
   padding: 40px;
   background-color: #fff;
     position: absolute;
-  bottom: 5px; /* Adjust the bottom offset as needed */
-  right: 5px; /* Adjust the right offset as needed */
+  bottom: 5px; 
+  right: 5px; 
   z-index: 4;
 }
 
@@ -116,8 +116,8 @@
   padding: 3px;
   background-color: #fff;
     position: absolute;
-  bottom: 5px; /* Adjust the bottom offset as needed */
-  right: 5px; /* Adjust the right offset as needed */
+  bottom: 5px; 
+  right: 5px; 
   z-index: 4;
 }
 

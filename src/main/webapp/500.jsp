@@ -27,7 +27,7 @@
     </div>
   </header>
   <div class="capa"></div>
-<!--  --------------->
+
 
 
     <div class="hero">

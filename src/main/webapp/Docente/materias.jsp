@@ -385,7 +385,7 @@
                 Swal.fire({
                     icon: 'error',
                     title: 'Verifica tu información',
-                    text: 'La nueva contraseña debe tener entre 3 y 8 caracteres.',
+                    text: 'La nueva contraseña debe tener entre 3 y 20 caracteres.',
                     showConfirmButton: true,
                     confirmButtonColor: '#001256',
                 });
